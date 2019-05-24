@@ -1,4 +1,4 @@
-require_relative '../../src/slots'
+require_relative '../../src/entities/slots'
 
 RSpec.describe Slot do
   describe 'initialize' do

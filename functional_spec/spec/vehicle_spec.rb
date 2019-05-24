@@ -1,4 +1,4 @@
-require_relative '../../src/vehicle'
+require_relative '../../src/entities/vehicle'
 
 RSpec.describe Vehicle do
   describe 'initialize' do

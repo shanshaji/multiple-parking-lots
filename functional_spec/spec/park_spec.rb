@@ -1,5 +1,5 @@
 require_relative '../../src/parking_space'
-require_relative '../../src/slots'
+require_relative '../../src/entities/slots'
 RSpec.describe 'park' do
     context 'given input paramaters is correct & slots are free' do
       it 'allocates a slot to the vehicle' do
